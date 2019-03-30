@@ -9,3 +9,10 @@ if(true){
   console.log(true)
 }
 ```
+
+```html
+<html>
+  <head></head>
+  <body></body>
+</html
+```
