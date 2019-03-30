@@ -16,3 +16,11 @@ if(true){
   <body></body>
 </html
 ```
+
+```css
+body{
+  height: 100vh;
+  display: flex;
+  border: 2px solid #f2f;
+}
+```
